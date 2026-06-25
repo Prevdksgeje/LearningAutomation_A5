@@ -12,7 +12,7 @@ public class Learning_jscode {
 		WebDriver driver = new ChromeDriver();
 		
 		// handle the JS code
-		
+		System.out.println("Execution Start");
 		// step 1
 		
 		JavascriptExecutor jsobj = (JavascriptExecutor) driver;
